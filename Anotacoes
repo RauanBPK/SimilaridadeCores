@@ -1,0 +1,23 @@
+Anotacoes
+
+Comando para compilar:
+
+g++ Leitorppm.cpp -o leitor `pkg-config --cflags --libs opencv`
+
+Maca
+	- CUBO
+	- ESFERA
+	- Mahalanobis - th=3
+	- K-vizinhos - 50 esferas - raio = 25
+
+Estrela
+	- CUBO
+	- ESFERA
+	- Mahalanobis - th= 3.5
+	- K-vizinhos -  80 esferas - raio = 30
+
+Flor
+	- CUBO
+	- ESFERA
+	- Mahalanobis - th= 3
+	- K-vizinhos -  100 esferas - raio = 30
